@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSix", "GameSix\GameSix.csproj", "{26C9CC3B-40A7-41D3-9174-F436F847DEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSixFriday", "GameSixFriday\GameSixFriday.csproj", "{51E83A3F-2B82-498B-9EB8-E4E2EF6005C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C9CC3B-40A7-41D3-9174-F436F847DEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C9CC3B-40A7-41D3-9174-F436F847DEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C9CC3B-40A7-41D3-9174-F436F847DEFD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{51E83A3F-2B82-498B-9EB8-E4E2EF6005C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E83A3F-2B82-498B-9EB8-E4E2EF6005C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E83A3F-2B82-498B-9EB8-E4E2EF6005C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E83A3F-2B82-498B-9EB8-E4E2EF6005C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
