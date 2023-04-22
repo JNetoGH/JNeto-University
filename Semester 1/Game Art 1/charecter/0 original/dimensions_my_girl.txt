@@ -1,0 +1,4 @@
+feet: w = 5, h = 8, d = 6
+body: w = 10, h = 12, d = 6
+arms: w = 5, , h= 11, d = 4
+head: w = 10, h = 11, d = 8
