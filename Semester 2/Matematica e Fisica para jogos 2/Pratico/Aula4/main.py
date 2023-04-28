@@ -5,6 +5,7 @@ pygame.init()
 display = pygame.display.set_mode((640, 480))
 clock = pygame.time.Clock()
 delta_Time = 0
+
 my_font = pygame.font.Font('freesansbold.ttf', 14)
 
 Gravity = 9.8
@@ -13,35 +14,20 @@ VZero: pygame.Vector2 = pygame.Vector2(0, 0)
 VForward: pygame.Vector2 = pygame.Vector2(1, 0)
 VBackward: pygame.Vector2 = pygame.Vector2(-1, 0)
 
+
 class GameObject:
-
-    def __init__(self, pos: pygame.Vector2, size):
-        self.pos: pygame.Vector2 = pos
-        self.size = size
-        self.color = pygame.Color("White")
-
-    def start(self):
-        pass
-
-    def render(self):
-        pygame.draw.circle(display, self.color, self.pos, self.size)
-
-    def update(self):
-        pass
-
-
-class Character(GameObject):
 
     BaseSpeed = 100
 
     def __init__(self, pos: pygame.Vector2, size):
-        super().__init__(pos, size)
+        self.position: pygame.Vector2 = pos
         self.velocity = pygame.Vector2(0, 0)
-        self.speed = Character.BaseSpeed
-        self.mass = 20
+        self.speed = GameObject.BaseSpeed
+        self.mass = 1
         self.drag = 2
         self.use_gravity = True
-        self.color = pygame.Color("red")
+        self.radius = size
+        self.color = pygame.Color("White")
 
     @property
     def current_direction(self):
@@ -52,52 +38,35 @@ class Character(GameObject):
 
     def start(self):
         altVector = pygame.Vector2(1, 0).normalize()
-        self.__add__force(altVector, 800)
-        # self.__add__force(VBackward, 500)
+        self.add__force(altVector, 800)
 
     def update(self):
-        # pseudo physics engine update
-
-        # applies dragging
-        """
-        self.velocity.x -= self.drag * delta_Time
-        self.velocity.y -= self.drag * delta_Time
-        if abs(self.velocity.x) < 0:
-            self.velocity.x = 0
-        if abs(self.velocity.y) < 0:
-            self.velocity.y = 0
-        """
-
-        # applies gravity
-        if (self.use_gravity):
-            self.__add__force(pygame.Vector2(0, 1), Gravity)
+        if self.use_gravity:
+            self.__apply_gravity()
 
         # moves the obj according o velocity
-        self.pos = self.pos + self.velocity
-
-        # prints the internal of the pseudo physics engine
-        # print(f"velocity {self.velocity}")
+        self.position = self.position + self.velocity
         print(f"current_dir {self.current_direction}\n")
 
-        # clears velocity
-        # self.velocity = pygame.Vector2(0, 0)
-
-    def render(self):
-        super(Character, self).render()
+    def render(self, surface):
         self.__render_info()
+        pygame.draw.circle(surface, self.color, self.position, self.radius)
 
-    def __add__force(self, force_direction: pygame.Vector2, newtons):
-        force = (force_direction * newtons / self.mass) * delta_Time
-        self.velocity += force
+    def add__force(self, force_direction: pygame.Vector2, newtons):
+        acceleration = (force_direction * newtons / self.mass)
+        self.velocity += acceleration
+
+    def __apply_gravity(self):
+        self.add__force(pygame.Vector2(0, 1), Gravity*delta_Time)
 
     def __render_info(self):
         font_surface = my_font.render(f" speed: {self.speed} | Vx: {self.velocity.x:.2f}, Vy:{self.velocity.y:.2f} )", True, pygame.Color(255, 255, 255))
         font_rect = font_surface.get_rect()
-        font_rect.center = (self.pos.x, self.pos.y - 20)
+        font_rect.center = (self.position.x, self.position.y - 20)
         display.blit(font_surface, font_rect)
 
 
-character = Character(pygame.Vector2(300, 100), 10)
+character = GameObject(pygame.Vector2(300, 100), 20)
 
 # Gameloop
 is_it_the_first_fame = True
@@ -121,7 +90,7 @@ while (True):
         character.start()
         is_it_the_first_fame = False
     character.update()
-    character.render()
+    character.render(display)
 
     # Frame Update
     pygame.display.update()
