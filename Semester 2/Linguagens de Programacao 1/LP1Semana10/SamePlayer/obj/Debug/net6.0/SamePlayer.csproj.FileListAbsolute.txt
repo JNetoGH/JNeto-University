@@ -1,0 +1,15 @@
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\bin\Debug\net6.0\SamePlayer.exe
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\bin\Debug\net6.0\SamePlayer.deps.json
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\bin\Debug\net6.0\SamePlayer.runtimeconfig.json
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\bin\Debug\net6.0\SamePlayer.dll
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\bin\Debug\net6.0\SamePlayer.pdb
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\SamePlayer.csproj.AssemblyReference.cache
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\SamePlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\SamePlayer.AssemblyInfoInputs.cache
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\SamePlayer.AssemblyInfo.cs
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\SamePlayer.csproj.CoreCompileInputs.cache
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\SamePlayer.dll
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\refint\SamePlayer.dll
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\SamePlayer.pdb
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\SamePlayer.genruntimeconfig.cache
+C:\Users\JNeto\Desktop\LP1Semana10\SamePlayer\obj\Debug\net6.0\ref\SamePlayer.dll

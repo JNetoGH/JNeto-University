@@ -1,0 +1,15 @@
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\bin\Debug\net6.0\StringCollections.exe
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\bin\Debug\net6.0\StringCollections.deps.json
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\bin\Debug\net6.0\StringCollections.runtimeconfig.json
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\bin\Debug\net6.0\StringCollections.dll
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\bin\Debug\net6.0\StringCollections.pdb
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\StringCollections.csproj.AssemblyReference.cache
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\StringCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\StringCollections.AssemblyInfoInputs.cache
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\StringCollections.AssemblyInfo.cs
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\StringCollections.csproj.CoreCompileInputs.cache
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\StringCollections.dll
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\refint\StringCollections.dll
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\StringCollections.pdb
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\StringCollections.genruntimeconfig.cache
+C:\Users\JNeto\Desktop\LP1Semana10\StringCollections\obj\Debug\net6.0\ref\StringCollections.dll

@@ -1,0 +1,15 @@
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\bin\Debug\net6.0\PlayerManager3.exe
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\bin\Debug\net6.0\PlayerManager3.deps.json
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\bin\Debug\net6.0\PlayerManager3.runtimeconfig.json
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\bin\Debug\net6.0\PlayerManager3.dll
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\bin\Debug\net6.0\PlayerManager3.pdb
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\PlayerManager3.csproj.AssemblyReference.cache
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\PlayerManager3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\PlayerManager3.AssemblyInfoInputs.cache
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\PlayerManager3.AssemblyInfo.cs
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\PlayerManager3.csproj.CoreCompileInputs.cache
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\PlayerManager3.dll
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\refint\PlayerManager3.dll
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\PlayerManager3.pdb
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\PlayerManager3.genruntimeconfig.cache
+C:\Users\JNeto\Desktop\LP1Semana10\PlayerManager3\obj\Debug\net6.0\ref\PlayerManager3.dll

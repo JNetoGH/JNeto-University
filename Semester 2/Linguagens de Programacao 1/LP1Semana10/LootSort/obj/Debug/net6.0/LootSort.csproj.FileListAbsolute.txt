@@ -1,0 +1,15 @@
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\bin\Debug\net6.0\LootSort.exe
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\bin\Debug\net6.0\LootSort.deps.json
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\bin\Debug\net6.0\LootSort.runtimeconfig.json
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\bin\Debug\net6.0\LootSort.dll
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\bin\Debug\net6.0\LootSort.pdb
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\LootSort.csproj.AssemblyReference.cache
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\LootSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\LootSort.AssemblyInfoInputs.cache
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\LootSort.AssemblyInfo.cs
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\LootSort.csproj.CoreCompileInputs.cache
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\LootSort.dll
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\refint\LootSort.dll
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\LootSort.pdb
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\LootSort.genruntimeconfig.cache
+C:\Users\JNeto\Desktop\LP1Semana10\LootSort\obj\Debug\net6.0\ref\LootSort.dll
