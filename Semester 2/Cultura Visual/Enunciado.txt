@@ -1,0 +1,93 @@
+:: Report structure
+
+
+Cover
+
+Description
+
+Table Contents 
+
+Movies & Games Relationship 
+
+Final Conclusion
+
+References
+_________________________________________________________________
+
+
+:: Objective: Explain how was the process of recording, editing and creating your podcast. Relate your Podcast theme, with at least 3 games (2/3 should be the ones analyzed during class).
+
+
+:: Cover
+
+Should be equal with every class member. Containing: name, student number, year, university logo. Using different covers will not be accepted.
+
+
+:: Description
+(Minimum total: 500 characters)
+Small description of the podcast. Its name, movies analyzed and the games analyzed. Should contain year of release, producers, publishers and respective budgets. 
+
+Attention: Each text should have a text structure with an introduction - development - conclusion.
+
+
+:: Table of contents
+
+
+Movies & Games Relationship.……...……… [page number]
+
+Final conclusion………............………......…........ [page number]
+
+References ....................……..................….…..  [page number]
+
+
+Ex. Final conclusion…………...........................7
+
+(there is no need for the word “page”, or “pag.”, or putting numbers in brackets, i.e, [7])
+
+:: Movies and Games Relationship
+(Minimum total:2500 characters)
+
+Explain the podcast theme, and how the movies related to it. The process should contain the movie observing and record flow. Should contain still frames of the movies main scenes that highlight the podcast opinions. Identify at least 3 other games that were related to the theme, which 2 of them were analyzed during the classes. Identify the game name, publisher, developer, time of development and how it related to the movies, use the moment in the screenshot related to the movies. Attention: always, use screenshot images of these games, and not promo-art or menu screens. 
+
+Attention: Each text should have an introduction - development - conclusion.
+
+
+:: Final Conclusion
+(Minimum total: 2000 characters)
+
+Your unique reflection about the entire process per group member. Did you find the assignment to gather information easily? Was it hard? Did you think your time management was adequate? Or maybe no? Be honest, be mature, be concise. Do a self-appreciation of your attitude towards this assignment. What were your weak and strong points? If you could do it all over again, what would you improve in your take on this assignment?
+
+:: References
+
+:: Webgraphy
+Non-use of this parameter will make the evaluation of this parameter null.
+
+
+
+Images
+
+Images used in this report should have a good resolution and highlight your ideas.
+
+
+Attention 
+
+Wikipédia and variants are forbidden. 
+
+
+Font
+
+Minion pro, or EB Garamond, size: 10. Chapter size: 14.
+
+
+Text Structure 
+
+Each text should have an introduction - development - conclusion.
+
+
+Style guide 
+
+APA format.
+
+
+Creating footnote in Google Docs:
+Insert>footnote
